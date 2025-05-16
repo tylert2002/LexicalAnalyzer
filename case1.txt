@@ -1,0 +1,53 @@
+myVariable22
+// Hi, this is a comment
+
+1234
+49599399219
+2
+
+(
+)
+[
+]
+{
+}
+
+.
++
+-
+*
+/
+%
+<
+>
+=
+;
+,
+
+++
+--
+<=
+>=
+==
+&&
+||
+!
+&
+|
+
+int myInteger25
+return 0
+if
+switch
+float 12.34
+while
+else
+case
+char nameForMyChar
+for
+goto ThisBlock
+unsigned
+main
+break
+continue
+void
